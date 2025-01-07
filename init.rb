@@ -1,3 +1,5 @@
+require 'redmine'
+
 Redmine::Plugin.register :redmine_heigh10_custom do
   name 'Heigh10 Custom Plugins'
   author 'Deepak Kumar'
